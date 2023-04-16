@@ -1,3 +1,4 @@
-xin chào mọi người nhaaa. Ok chào nha
+<<<<<<< HEAD
 
-Moojt hai ba buon
+xin chào mọi người nhaaa. Ok chào nha. Ok luoon nef
+>>>>>>> eae3fc22adce443848b208074f14e4b7d827bf3d
